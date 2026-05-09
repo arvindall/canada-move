@@ -1,0 +1,13 @@
+{
+  "arrival_date": "",
+  "manual_usd_cad_fx": 1.38,
+  "sheet_id": "REPLACE_ME",
+  "sheet_tabs": {
+    "holdings_raw": "Holdings_Raw",
+    "lots_master": "Lots_Master",
+    "arrival_snapshot": "Arrival_Snapshot",
+    "sell_plan": "Sell_Plan",
+    "audit_log": "Audit_Log",
+    "control": "Control"
+  }
+}
