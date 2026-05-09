@@ -1,5 +1,13 @@
-# Mountain View → Burnaby: Master Checklist
+# California → British Columbia: Master Checklist
 > Mark items with `[x]` as you complete them. Do not advance to the next phase until all 🔴 items in the current gate check are done.
+
+---
+
+## Operating Rule for Taxable Investments
+
+- [ ] Default rule confirmed: sell desired loss positions before departure, hold gain positions through the move, and treat early 2027 as the default gain-sale window
+- [ ] Do not keep a false US address on the primary US brokerage or any other financial institution after the move
+- [ ] Build a dated evidence folder for brokerage statements, lot-level basis, arrival-date FMV, CAD/USD rate support, and post-move tax records
 
 ---
 
@@ -13,11 +21,13 @@
 - [ ] Optional: Refer a qualified replacement tenant in writing to reduce/eliminate liability
 
 ### Financial: US Accounts
-- [ ] 🔴 File IRS Form W-8BEN with Fidelity → see `documents/w8ben_checklist.md`
-- [ ] File W-8BEN with any other US financial institutions (banks, brokerages)
-- [ ] Screenshot/export current Fidelity taxable account holdings (capture today's values)
-- [ ] Decide: rebalance, hold, or partially liquidate taxable account before crossing border
-- [ ] Open Canadian newcomer bank account online (RBC or TD) — use work permit as proof
+- [ ] 🔴 Pull a lot-by-lot basis report for every taxable brokerage holding
+- [ ] Separate taxable holdings into loss positions to consider selling before departure and gain positions to hold through the move
+- [ ] If harvesting losses, check wash-sale timing before rebuying substantially identical exposure
+- [ ] Screenshot/export current taxable account holdings and save the latest statements
+- [ ] Save proof that US employment ends on departure timeline
+- [ ] Queue address changes for banks and brokerages to submit after the actual move
+- [ ] Open Canadian newcomer bank account online (RBC or TD) using the immigration/status documents required by the bank
 
 ### Logistics: Moving Company
 - [ ] Get quotes from at least 3 movers: XS Baggage, Miracle Movers, International Van Lines
@@ -26,7 +36,7 @@
 
 ### Gate Check — DO NOT proceed to Phase 2 until:
 - [ ] 🔴 Lease notice served and acknowledged in writing by landlord
-- [ ] 🔴 W-8BEN filed with Fidelity
+- [ ] 🔴 Taxable holdings categorized into pre-move loss sales vs post-move gain holds
 - [ ] 🔴 Moving company booked with confirmed pick-up date
 - [ ] 🔴 Asset FMV documented (today's brokerage screenshots saved to `logs/asset_fmv_log.md`)
 
@@ -50,13 +60,13 @@
 - [ ] Save policy documents and emergency contact number somewhere accessible offline
 
 ### Housing: Remote Search
-- [ ] Schedule virtual tours: Arbour Place (Hazel St) and Panorama Tower (Grange St)
+- [ ] Schedule virtual tours for shortlisted rentals
 - [ ] Prepare rental application package:
-  - [ ] Work permit approval letter (printed copy)
+  - [ ] Immigration approval / status document (printed copy)
   - [ ] Employment offer letter
   - [ ] 3 months of bank statements
   - [ ] Passport copy
-- [ ] Research 2–3 backup private/LNR daycares near shortlisted buildings (for childcare waitlist gap)
+- [ ] Research 2–3 backup private/LNR daycares near shortlisted neighborhoods (for childcare waitlist gap)
 
 ### Driver's Abstract
 - [ ] 🔴 Order CA DMV Driver's Abstract / Letter of Driving Experience
@@ -82,16 +92,24 @@
 - [ ] Declare full FMV of goods you're hand-carrying
 
 ### Day 1–2
-- [ ] 🔴 Visit Service Canada in-person (4242 Still Creek Dr, Burnaby)
-  - Bring: work permit, passport, proof of address
+- [ ] 🔴 Visit a Service Canada office in-person
+  - Bring: immigration status document, passport, proof of address
   - Processing: same day
   - Output: Social Insurance Number (SIN) — give to employer immediately for payroll
 - [ ] Visit RBC or TD branch to activate pre-opened account
-  - Bring: work permit, SIN, passport
+  - Bring: immigration status document, SIN, passport
   - Set up direct deposit; activate credit card
 
+### Tax / Brokerage Arrival Evidence
+- [ ] 🔴 Record the exact Canadian tax residency start date used for the move-year file
+- [ ] Save a fresh same-day taxable brokerage positions export plus screenshot/PDF backup
+- [ ] Run the arrival-date evidence pack workflow in `../canada-asset-agent/README.md`
+- [ ] Record arrival-date FMV for each holding and the CAD/USD rate support used
+- [ ] Update brokerages, banks, and other financial institutions truthfully after the move
+- [ ] Submit W-8BEN or equivalent foreign-status paperwork after the move when the institution requests it
+
 ### Day 2–3
-- [ ] Sign lease using work permit approval letter + bank statement as proof of funds
+- [ ] Sign lease using immigration approval / status documents + bank statement as proof of funds
 - [ ] 🔴 Reserve building service elevator for move-in day (14–21 day advance required)
   - Confirm weekday window (typically 9 AM–5 PM only)
   - Pay $200–$500 refundable moving deposit
@@ -105,7 +123,7 @@
 
 ---
 
-## PHASE 4 — First Two Weeks in Burnaby (Days 4–14)
+## PHASE 4 — First Two Weeks in British Columbia (Days 4–14)
 
 ### Government Enrollment
 - [ ] Apply for MSP at gov.bc.ca/msp — do this the day you have a BC address
@@ -115,7 +133,7 @@
 ### Childcare — Highest Priority Family Action
 - [ ] 🔴 Register on YMCA BC Child Care Registry: ymcabc.ca/childcare
   - Do this the day you have a BC address — wait is 3–6 months from registration date
-- [ ] Register directly with SFU Childcare Society (SFUCCS)
+- [ ] Register directly with shortlisted licensed childcare providers
 - [ ] Identify and contact 2–3 home-based/LNR daycare providers near your building
 
 ### StrongStart BC (Toddler Bridge Program)
@@ -145,13 +163,15 @@
 ### Canadian Financial Accounts
 - [ ] Open TFSA at RBC/TD (requires SIN) — contribution room starts from year of residency
 - [ ] Open RESP for child — CESG grant adds 20% on first $2,500/year contributed
-- [ ] Fidelity IRA/401(k): no action needed — actively tradeable under provincial exemptions
-- [ ] Fidelity taxable: closing trades only — plan liquidation timeline into TFSA
+- [ ] US IRA/401(k): no action needed — actively tradeable under provincial exemptions
+- [ ] Primary taxable brokerage: do not force a sale just because you moved; use closing-only mode or an in-kind transfer to a Canadian USD brokerage if needed
+- [ ] Treat 2026 as a transition year and early 2027 as the default gain-sale window
 
 ### Tax Preparation
-- [ ] Record exact Canadian tax residency start date: _______________
-- [ ] Confirm W-8BEN on file with every US institution (call to verify)
+- [ ] Keep exact Canadian tax residency start date recorded here: _______________
+- [ ] Confirm W-8BEN or equivalent foreign-status paperwork is on file with each relevant US institution after the move
 - [ ] File all asset FMV records from landing date in `logs/asset_fmv_log.md`
+- [ ] Keep a clean California-exit paper trail and track any US trips with exact entry/exit dates
 - [ ] Engage a cross-border tax accountant (US + Canadian filing required for year of arrival)
 
 ### Budget Tracking
@@ -165,8 +185,9 @@
 | File | Purpose |
 |------|---------|
 | `checklist.md` | This file — phase-gated task tracker |
-| `documents/lease_termination_notice.md` | Draft notice to Mountain View landlord |
-| `documents/w8ben_checklist.md` | Steps to file W-8BEN with Fidelity |
+| `README.md` | Move strategy, tax-sensitive timeline, and documentation priorities |
+| `documents/lease_termination_notice.md` | Draft notice to current landlord |
+| `documents/w8ben_checklist.md` | Steps to handle post-move foreign-status paperwork with US institutions |
 | `documents/health_insurance_comparison.md` | Cigna vs DCIS interim coverage comparison |
 | `documents/childcare_action_sheet.md` | Childcare registration contacts and what to bring |
 | `templates/bsf186a_inventory.csv` | CBSA customs goods list (fill in before crossing) |
