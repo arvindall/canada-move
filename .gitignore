@@ -3,5 +3,5 @@ __pycache__/
 *.pyc
 .venv/
 .env
-data/raw/
-data/parsed/
+canada-asset-agent/data/raw/
+canada-asset-agent/data/parsed/

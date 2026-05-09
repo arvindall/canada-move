@@ -84,7 +84,7 @@
     },
     {
       "parameters": {
-        "command": "=python3 /files/scripts/run_action.py --action build_lots_master"
+        "command": "=python3 /files/canada-asset-agent/scripts/run_action.py --action build_lots_master"
       },
       "id": "exec_build",
       "name": "Execute Build Lots Master",
@@ -94,7 +94,7 @@
     },
     {
       "parameters": {
-        "command": "=python3 /files/scripts/run_action.py --action freeze_snapshot --arrival-date {{$json.arrival_date}} --weekend-policy {{$json.weekend_policy}}{{$json.fail_on_manual_review ? ' --fail-on-manual-review' : ''}}"
+        "command": "=python3 /files/canada-asset-agent/scripts/run_action.py --action freeze_snapshot --arrival-date {{$json.arrival_date}} --weekend-policy {{$json.weekend_policy}}{{$json.fail_on_manual_review ? ' --fail-on-manual-review' : ''}}"
       },
       "id": "exec_freeze",
       "name": "Execute Freeze Snapshot",
@@ -104,7 +104,7 @@
     },
     {
       "parameters": {
-        "command": "=python3 /files/scripts/run_action.py --action validate_snapshot --snapshot-file {{$json.snapshot_file}}{{$json.fail_on_manual_review ? ' --fail-on-manual-review' : ''}}"
+        "command": "=python3 /files/canada-asset-agent/scripts/run_action.py --action validate_snapshot --snapshot-file {{$json.snapshot_file}}{{$json.fail_on_manual_review ? ' --fail-on-manual-review' : ''}}"
       },
       "id": "exec_validate",
       "name": "Execute Validate Snapshot",
