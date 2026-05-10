@@ -46,6 +46,61 @@ Keep a dated folder with:
 - CAD/USD exchange-rate support used for the Canadian basis record
 - day-count support for any US presence in late 2026 and 2027
 
+## Houseplants and the move to Canada
+
+Use a conservative rule for plants:
+
+- declare every plant
+- check admissibility in CFIA's AIRS before travel
+- do not assume a normal houseplant is automatically fine when packed into household goods
+
+For this move, the practical rule is:
+
+- hand-carry maybe
+- movers shipment no, unless the exact plant and shipment method are clearly supported by AIRS or CFIA
+
+### Why the guidance is conservative
+
+- plant rules depend on exact species, origin, destination, and whether the plant has soil or growing media attached
+- soil is a major risk factor; even small amounts can make a plant count as "with soil"
+- indoor houseplants are stronger candidates than outdoor or patio-kept plants
+- a movers shipment is operationally riskier than a clearly declared plant travelling with you
+
+### Best candidates vs weak candidates
+
+Better candidates:
+
+- indoor pothos (`Epipremnum aureum`; older CFIA examples may refer to pothos as `Scindapsus` spp.)
+- indoor snake plant (`Dracaena trifasciata`, also commonly labeled `Sansevieria`)
+- other clearly identified indoor-only houseplants after AIRS verification
+
+Weak candidates:
+
+- outdoor or patio-kept plants
+- plants with uncertain species identification
+- large potted plants being buried inside a movers shipment without specific clearance
+
+### Practical decision rule
+
+If a plant is important enough to try to save, confirm all of the following first:
+
+- exact scientific name
+- indoor-only versus outdoor/patio history
+- whether the plant will be hand-carried or shipped with movers
+- whether soil or growing media is allowed for that exact case
+- whether a permit, phytosanitary certificate, or inspection is required
+
+If those answers are not clear, the safer decision is not to ship the plant.
+
+### Question to send CFIA if needed
+
+Use a short species-specific question that asks for:
+
+- admissibility from the continental U.S. into British Columbia
+- hand-carry versus household-goods shipment with movers
+- whether soil / growing media is allowed
+- whether any permit, phytosanitary certificate, or inspection is required
+
 ## Related files
 
 - `checklist.md` — phase-by-phase relocation task list

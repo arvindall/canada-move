@@ -9,7 +9,7 @@ Planning and evidence repository for the California → Canada move.
 
 ## Where to start
 
-- use `relocation/README.md` for the current move strategy, tax-sensitive timeline, and documentation priorities
+- use `relocation/README.md` for the current move strategy, tax-sensitive timeline, houseplant import notes, and documentation priorities
 - use `relocation/checklist.md` for the move task list
 - use `canada-asset-agent/README.md` for the brokerage snapshot workflow
 
