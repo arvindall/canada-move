@@ -10,6 +10,42 @@ This is the current working banking path for the move:
 
 Use this as a practical operating plan, not as a guarantee of any specific credit limit or premium-card approval.
 
+## Banking-only action order
+Use this as the short personal runbook if you just want the order of operations.
+
+### Today — May 11
+- call RBC cross-border and say this is a U.S.-resident relocating to Canada on an ICT work permit who wants the cross-border account pair set up before leaving California
+- confirm the rep is handling the U.S.-resident-moving-to-Canada relocation setup, not a different cross-border flow
+- pull a fresh U.S. credit score screenshot for newcomer-credit discussions
+
+### Before May 21
+- confirm the RBC cross-border setup is actually usable before relying on it
+- confirm what Canadian account details you already have and how the transfer path will work in practice
+- assemble the working document folder: passport, work permit approval or final status document, current employment letter, U.S. SSN, and Canadian address once known
+- keep the current U.S. address on U.S. issuers only until you have actually moved; once the move is real, update institutions truthfully and assume at least one U.S. bridge card could become less useful
+
+### Before you leave
+- pre-fund only the initial settlement float needed for deposit, first expenses, and arrival-week buffer
+- leave larger transfers for after the first-week setup is stable
+
+### Landing day
+- activate a Canadian phone number
+
+### Day 1–2 in Burnaby
+- obtain your SIN first
+- do the RBC branch visit with the newcomer + U.S.-credit-review ask
+- bring passport, work permit, Infosys employment letter, SIN, U.S. SSN, and Canadian phone number if already active
+
+### Same week — after RBC
+- do the Scotiabank follow-up if you want a second Canadian credit relationship
+- ask whether a daily chequing account is actually required for the Scotia credit application, rather than assuming it is or is not
+- move at least one small recurring bill onto the first Canadian card as soon as it is active
+- if a U.S. bridge card becomes unusable after truthful address updates, fall back to pre-funded Canadian chequing / debit for first-week essentials
+- if Costco is mission-critical during arrival week, plan around Canadian debit, Mastercard, or a physical Costco Shop Card rather than assuming a U.S. Visa workaround
+
+### After 3–6 months
+- reassess direct Canadian Amex or other premium travel-card applications once a real Canadian credit file exists
+
 ## Strategy at a glance
 ### Track 1 — Before landing
 - set up the RBC cross-border account pair if you want Canadian account details ready before arrival
@@ -30,6 +66,7 @@ Use this as a practical operating plan, not as a guarantee of any specific credi
 
 ### RBC cross-border setup
 - Call RBC and ask specifically for the cross-border / newcomer path for a U.S. resident moving to Canada
+- confirm the rep understands this is a relocation setup for a U.S. resident moving to Canada, not some other cross-border use case
 - Remember that RBC Bank (U.S.) and RBC Royal Bank (Canada) are separate entities; confirm which product is being opened on each side
 - If you use the RBC pair, keep the U.S. side under your current U.S. information before the move and open the Canadian side under the newcomer setup
 - If the setup works as expected, you should have Canadian transit / account details before landing
@@ -47,6 +84,7 @@ Use this as a practical operating plan, not as a guarantee of any specific credi
 - keep enough liquid cash for the first days after arrival even if you plan to rely on cross-border transfers
 - confirm which U.S. card you will use as the first-week bridge card
 - decide whether RBC will be the primary daily bank; if yes, treat Scotiabank mainly as the secondary Canadian credit relationship
+- pre-fund only the initial settlement float you actually need before departure; do not assume the very first large transfer is the one to stress-test the system with
 
 ## Phase 2 — Landing week: RBC branch visit
 ### Goal
@@ -155,6 +193,7 @@ Use this as a practical operating plan, not as a guarantee of any specific credi
 - review whether the initial RBC card should be upgraded
 - review whether the Scotiabank card should be upgraded
 - if Canadian credit is establishing cleanly, reassess a Canadian Amex application
+- reassess broader premium travel-card options once the Canadian file is established
 - keep all Canadian cards current and low-friction; the first six months matter more than optimization
 
 ## Useful links to re-check before acting
