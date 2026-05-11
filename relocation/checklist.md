@@ -91,11 +91,16 @@
   - Waitlist page: https://www.bccschildren.com/waiting-list
 
 ### Driver's Record / Experience Proof
-- [ ] 🔴 Request California DMV proof of your original licensing date
+- [ ] 🔴 Order California DMV proof of your original licensing date as early as possible
   - See `documents/drivers_license_swap_checklist.md`
-  - Start early; request a driver record and, if needed, a First Issue Date Letter / letter of experience
+  - Request a driver record and, if needed, a First Issue Date Letter / letter of experience
   - Keep any old expired California licenses that show earlier issue dates
-  - Do NOT skip: current CA records may not show the original issue date ICBC wants
+  - Do NOT assume the current California record automatically shows the original issue date ICBC wants
+- [ ] Prepare ICBC license-swap packet
+  - Current California driver's license
+  - California DMV proof of original issue date / driving experience
+  - Passport or other accepted identity document
+  - Proof of BC address once available
 
 ### Gate Check — DO NOT proceed to Phase 3 until:
 - [ ] 🔴 BSF186 + goods-to-follow list printed and ready
@@ -176,8 +181,8 @@
 - [ ] Attend first session within the first week
 
 ### Driver's License & Vehicle
-- [ ] Visit ICBC with: CA license, California DMV proof of original issue date / driving experience, passport, proof of BC address
-  - Apply within 90 days of arrival
+- [ ] Visit ICBC with prepared license-swap packet
+  - Apply within 90 days of arrival; do not treat Day 1 or Day 2 as a special legal deadline
   - If you cannot prove 2+ years of non-learner experience, ICBC can place you into the GLP
 - [ ] Submit any additional California driving-experience proof ICBC requests so you can claim up to 15 years of insurance experience credit
 - [ ] Register vehicle within 30 days of arrival
