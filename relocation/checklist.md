@@ -138,14 +138,16 @@
 - [ ] Declare the goods you're hand-carrying using reasonable used-value estimates
 
 ### Day 1–2
+- [ ] Get a Canadian phone number / eSIM before bank visits if possible
 - [ ] 🔴 Visit a Service Canada office in-person
   - Bring: immigration status document, passport, proof of address
   - Processing: same day
   - Output: Social Insurance Number (SIN) — give to employer immediately for payroll
 - [ ] Visit RBC or TD branch to activate pre-opened account
-  - Bring: immigration status document, SIN, passport
+  - Bring: immigration status document, SIN, passport, and Canadian phone number if active
   - Set up direct deposit; activate credit card
 - [ ] If using the U.S.-credit-import path, complete the landing-week branch sequence in `documents/cross_border_banking_checklist.md`
+- [ ] Be ready to run first-week essentials on Canadian debit / pre-funded chequing if a U.S. bridge card becomes unusable after truthful address updates
 
 ### Tax / Brokerage Arrival Evidence
 - [ ] 🔴 Record the exact Canadian tax residency start date used for the move-year file

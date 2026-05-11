@@ -15,10 +15,10 @@ Use this as a practical operating plan, not as a guarantee of any specific credi
 - set up the RBC cross-border account pair if you want Canadian account details ready before arrival
 
 ### Track 2 — Landing week
-- visit an RBC branch and ask for the newcomer setup plus any available U.S.-credit review path
+- get a Canadian phone number, obtain your SIN, then visit RBC for the newcomer setup plus the U.S.-credit review request
 
 ### Track 3 — Landing week follow-up
-- visit Scotiabank and ask about StartRight plus Nova Credit-based U.S. credit review
+- visit Scotiabank after RBC and ask about Nova Credit-based U.S. credit review, ideally without opening a second daily chequing account unless it is required
 
 ### Bridge
 - use a no-foreign-transaction-fee U.S. card for daily spending until Canadian cards are active
@@ -46,6 +46,7 @@ Use this as a practical operating plan, not as a guarantee of any specific credi
 - check your current U.S. credit score and save a screenshot for your own records
 - keep enough liquid cash for the first days after arrival even if you plan to rely on cross-border transfers
 - confirm which U.S. card you will use as the first-week bridge card
+- decide whether RBC will be the primary daily bank; if yes, treat Scotiabank mainly as the secondary Canadian credit relationship
 
 ## Phase 2 — Landing week: RBC branch visit
 ### Goal
@@ -53,10 +54,14 @@ Use this as a practical operating plan, not as a guarantee of any specific credi
 - secure an initial Canadian credit card
 - get payroll and rent plumbing working immediately
 
+### Do this before the branch visit
+- get a Canadian phone number / eSIM active if possible
+- obtain your SIN first; do not treat the credit-card application as the first stop before Service Canada
+
 ### Suggested branch ask
-- I am an ICT / work permit holder relocating from the U.S. and want the newcomer setup
-- If available, please review my U.S. credit history through RBC's cross-border newcomer credit-review workflow
-- Please tell me the card tier and limit I qualify for, and whether any premium-tier review is possible based on income and translated U.S. credit
+- I am an ICT / work permit holder relocating from the U.S., I already set up the cross-border side, and I want to finalize the Canadian newcomer setup
+- For the credit card, I would like to apply using RBC Global Credit Connect, if available for my profile; I understand this may use Nova Credit to translate my U.S. credit history
+- Based on my translated U.S. credit and employment income, please tell me which card tier and limit I qualify for, and whether a higher-tier review is available
 
 ### Practical expectations
 - treat the basic newcomer account as the default outcome
@@ -67,7 +72,7 @@ Use this as a practical operating plan, not as a guarantee of any specific credi
 - passport
 - work permit or approval document
 - Infosys employment letter
-- Canadian SIN if already obtained
+- Canadian SIN
 - U.S. SSN for any cross-border linkage questions
 - Canadian phone number if already active
 
@@ -77,25 +82,47 @@ Use this as a practical operating plan, not as a guarantee of any specific credi
 - confirm direct deposit details for payroll
 - confirm how to move money from the U.S. side to the Canadian side
 - ask exactly when the Canadian credit card decision and physical card should arrive
+- ask whether rush or courier delivery is available for the physical card if your U.S. bridge card may not remain usable for long after the move
 
 ## Phase 3 — Landing week follow-up: Scotiabank
 ### Goal
 - create a second Canadian credit relationship instead of relying only on one bank
 
 ### What to ask
-- open the StartRight newcomer banking path if useful
 - ask specifically whether Nova Credit can be used to review your U.S. credit history for card underwriting or a higher initial limit
-- ask for the exact card, limit, and documentation requirements in writing or on the application summary if possible
+- ask what the best card tier available today is based on your U.S. history and current employment profile
+- ask whether a daily chequing account is required to obtain the card, or whether the credit application can stand on its own
+- if an account is required, ask for the fee-waiver period and the cleanest downgrade / closure path before it expires
 
 ### Why do this
 - two Canadian credit relationships can be more useful than one
 - it reduces dependency on a single bank
 - it gives you a second path if RBC only offers a conservative initial limit
 
+### Avoid the two-bank chequing trap
+- if RBC is your primary daily bank, do not assume you also want Scotiabank as a long-term day-to-day chequing account
+- if Scotiabank requires a daily account for the card, set a reminder before the newcomer fee waiver ends to close, downgrade, or justify keeping it
+
+## Payroll routing default
+- default to routing payroll into the primary daily bank, usually RBC if you are using the cross-border pair as the main operating setup
+- keep the secondary bank active by using its credit card periodically and paying that bill from the primary bank
+- do not split payroll just to make a second bank relationship look active unless a specific product requirement or fee waiver makes it worthwhile
+
 ## Spending bridge for the first days
 ### U.S. card bridge
 - Use a U.S. card with no foreign transaction fee for daily spending until Canadian cards are active
 - Citi Costco Visa is the current bridge-card example you identified
+- keep the current U.S. address on file only until you have actually moved; once the move is real, update institutions truthfully rather than early
+
+### Truthful-address fallback
+- once you update a U.S. issuer with a permanent Canadian address, do not assume that card will remain available as your Canada bridge
+- pre-fund the Canadian chequing side so debit can cover groceries, transit, deposits, and other first-week essentials if the U.S. card becomes restricted
+- treat Canadian debit as the operational fallback, not as the credit-building plan
+
+### Costco-specific note
+- if Costco is part of the first two weeks, do not assume a U.S. Visa bridge card will work in a Canadian warehouse or at Costco gas
+- Costco Canada warehouses accept debit, cash, Costco Shop Cards, and Mastercard; Costco Canada gas accepts physical Costco Shop Cards, debit, and Mastercard
+- if Costco is mission-critical during arrival week, a pre-bought Costco Shop Card is a cleaner backup than hoping a U.S. Visa will be accepted
 
 ### Gas / POS practical note
 - Some people report that entering the first three digits of a U.S. ZIP code plus `00` can work at Canadian pumps, but do not depend on this as your only fueling method
@@ -118,7 +145,7 @@ Use this as a practical operating plan, not as a guarantee of any specific credi
 
 ### Keep records honest
 - do not keep a false U.S. address on your primary brokerage or other financial institutions after the move
-- if a U.S. card issuer has special address-handling rules for customers relocating abroad, confirm the issuer's actual policy rather than guessing
+- do not assume every U.S. card issuer will comfortably support a permanent Canadian residential address; confirm the issuer's actual policy and keep a backup bridge-payment plan
 
 ### Amex note
 - If your only recent Amex relationship is closed or impaired, do not plan around Amex Global Transfer as the primary path
@@ -140,7 +167,9 @@ Use this as a practical operating plan, not as a guarantee of any specific credi
 If you want the cleanest first-week setup:
 
 1. pre-wire the RBC cross-border pair before landing
-2. finish SIN + phone number immediately after arrival
-3. do the RBC branch visit first
-4. do the Scotiabank follow-up second
-5. use the U.S. no-FX card only as a bridge, not as the long-term Canada plan
+2. land and activate a Canadian phone number
+3. obtain your SIN
+4. do the RBC branch visit first
+5. do the Scotiabank follow-up second
+6. route payroll to the primary bank and pay the secondary card from there
+7. use the U.S. no-FX card only as a bridge, not as the long-term Canada plan
