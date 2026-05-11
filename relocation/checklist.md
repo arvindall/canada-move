@@ -27,6 +27,7 @@
 - [ ] Screenshot/export current taxable account holdings and save the latest statements
 - [ ] Save proof that US employment ends on departure timeline
 - [ ] Queue address changes for banks and brokerages to submit after the actual move
+- [ ] If using the RBC / Scotiabank newcomer-credit path, follow `documents/cross_border_banking_checklist.md` now
 - [ ] Open Canadian newcomer bank account online (RBC or TD) using the immigration/status documents required by the bank
 
 ### Logistics: Moving Company
@@ -144,6 +145,7 @@
 - [ ] Visit RBC or TD branch to activate pre-opened account
   - Bring: immigration status document, SIN, passport
   - Set up direct deposit; activate credit card
+- [ ] If using the U.S.-credit-import path, complete the landing-week branch sequence in `documents/cross_border_banking_checklist.md`
 
 ### Tax / Brokerage Arrival Evidence
 - [ ] 🔴 Record the exact Canadian tax residency start date used for the move-year file
@@ -244,6 +246,7 @@
 | `documents/w8ben_checklist.md` | Steps to handle post-move foreign-status paperwork with US institutions |
 | `documents/health_insurance_comparison.md` | Cigna vs DCIS interim coverage comparison |
 | `documents/childcare_action_sheet.md` | Childcare registration contacts and what to bring |
+| `documents/cross_border_banking_checklist.md` | RBC / Scotiabank newcomer banking and credit-import path |
 | `documents/drivers_license_swap_checklist.md` | California DMV → ICBC license-swap proof checklist |
 | `documents/mover_quote_checklist.md` | What to confirm before choosing a cross-border mover |
 | `templates/bsf186a_inventory.csv` | CBSA customs goods list (fill in before crossing) |

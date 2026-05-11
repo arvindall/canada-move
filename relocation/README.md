@@ -105,6 +105,7 @@ Use a short species-specific question that asks for:
 
 - `checklist.md` — phase-by-phase relocation task list
 - `documents/childcare_action_sheet.md` — Burnaby childcare search order, contacts, and StrongStart notes
+- `documents/cross_border_banking_checklist.md` — RBC / Scotiabank newcomer banking and U.S.-credit leverage workflow
 - `documents/drivers_license_swap_checklist.md` — California DMV / ICBC proof checklist and pitfalls
 - `documents/mover_quote_checklist.md` — what to confirm before choosing a downsized cross-border mover
 - `templates/bsf186a_inventory.csv` — living goods-to-follow inventory template for BSF186 / BSF186A prep
