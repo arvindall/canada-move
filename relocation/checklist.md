@@ -28,7 +28,7 @@
 - [ ] Save proof that US employment ends on departure timeline
 - [ ] Queue address changes for banks and brokerages to submit after the actual move
 - [ ] If using the RBC / Scotiabank newcomer-credit path, follow `documents/cross_border_banking_checklist.md` now
-- [ ] Open Canadian newcomer bank account online (RBC or TD) using the immigration/status documents required by the bank
+- [ ] Confirm what, if anything, RBC, TD, or another bank can pre-arrange for your status before landing; do not assume the full RBC cross-border setup can be completed from the U.S.
 
 ### Logistics: Moving Company
 - [ ] Define the shipment honestly before requesting quotes: mostly boxes, a few small pieces, and maybe one bed; do not price it as a full furniture-heavy 2-bedroom move if that is no longer true
@@ -143,8 +143,8 @@
   - Bring: immigration status document, passport, proof of address
   - Processing: same day
   - Output: Social Insurance Number (SIN) — give to employer immediately for payroll
-- [ ] Visit RBC or TD branch to activate pre-opened account
-  - Bring: immigration status document, SIN, passport, and Canadian phone number if active
+- [ ] Visit RBC or TD branch to open or activate the newcomer account based on what was actually pre-arranged
+  - Bring: immigration status document, SIN, passport, Canadian phone number if active, and any second piece of ID the branch said it requires
   - Set up direct deposit; activate credit card
 - [ ] If using the U.S.-credit-import path, complete the landing-week branch sequence in `documents/cross_border_banking_checklist.md`
 - [ ] Be ready to run first-week essentials on Canadian debit / pre-funded chequing if a U.S. bridge card becomes unusable after truthful address updates

@@ -3,8 +3,8 @@ Use this with `../checklist.md` before landing and during the first week in B.C.
 
 This is the current working banking path for the move:
 
-- RBC cross-border setup for pre-landing account access and money movement
-- RBC newcomer setup during landing week
+- RBC newcomer setup in Canada first
+- RBC Bank U.S. / cross-border follow-up only if the Canadian-side verification makes it available afterward
 - Scotiabank StartRight / Nova Credit as a second Canadian credit file
 - Citi Costco Visa or similar no-foreign-transaction-fee U.S. card as the short bridge while Canadian cards are arriving
 
@@ -14,27 +14,28 @@ Use this as a practical operating plan, not as a guarantee of any specific credi
 Use this as the short personal runbook if you just want the order of operations.
 
 ### Today — May 11
-- call RBC cross-border and say this is a U.S.-resident relocating to Canada on an ICT work permit who wants the cross-border account pair set up before leaving California
-- confirm the rep is handling the U.S.-resident-moving-to-Canada relocation setup, not a different cross-border flow
+- call RBC cross-border and confirm the actual path for a U.S. resident relocating to Canada on an ICT work permit
+- if the phone line says in-Canada branch verification is required first, treat that as the operative rule instead of assuming a pre-landing cross-border pair
 - pull a fresh U.S. credit score screenshot for newcomer-credit discussions
 
 ### Before May 21
-- confirm the RBC cross-border setup is actually usable before relying on it
-- confirm what Canadian account details you already have and how the transfer path will work in practice
+- confirm what the RBC branch wants for identity verification, including whether they require two pieces of ID
+- if possible, book or plan the landing-week RBC branch visit now
 - assemble the working document folder: passport, work permit approval or final status document, current employment letter, U.S. SSN, and Canadian address once known
 - keep the current U.S. address on U.S. issuers only until you have actually moved; once the move is real, update institutions truthfully and assume at least one U.S. bridge card could become less useful
 
 ### Before you leave
 - pre-fund only the initial settlement float needed for deposit, first expenses, and arrival-week buffer
 - leave larger transfers for after the first-week setup is stable
+- have a non-RBC arrival-week money path ready in case the RBC pair is not usable until after the in-Canada branch visit
 
 ### Landing day
 - activate a Canadian phone number
 
 ### Day 1–2 in Burnaby
 - obtain your SIN first
-- do the RBC branch visit with the newcomer + U.S.-credit-review ask
-- bring passport, work permit, Infosys employment letter, SIN, U.S. SSN, and Canadian phone number if already active
+- do the RBC branch visit to complete the newcomer setup, satisfy identity verification, and make the U.S.-credit-review ask
+- bring passport, work permit, Infosys employment letter, SIN, U.S. SSN, Canadian phone number if already active, and any second piece of ID the branch requested
 
 ### Same week — after RBC
 - do the Scotiabank follow-up if you want a second Canadian credit relationship
@@ -48,12 +49,15 @@ Use this as the short personal runbook if you just want the order of operations.
 
 ## Strategy at a glance
 ### Track 1 — Before landing
-- set up the RBC cross-border account pair if you want Canadian account details ready before arrival
+- prepare the branch documents and backup funding path; do not assume the full RBC pair can be opened before arrival
 
 ### Track 2 — Landing week
-- get a Canadian phone number, obtain your SIN, then visit RBC for the newcomer setup plus the U.S.-credit review request
+- get a Canadian phone number, obtain your SIN, then visit RBC for the newcomer setup and identity verification
 
 ### Track 3 — Landing week follow-up
+- after the Canadian side is verified, ask whether and how the RBC Bank U.S. side can be opened or linked
+
+### Track 4 — Landing week follow-up
 - visit Scotiabank after RBC and ask about Nova Credit-based U.S. credit review, ideally without opening a second daily chequing account unless it is required
 
 ### Bridge
@@ -61,16 +65,16 @@ Use this as the short personal runbook if you just want the order of operations.
 
 ## Phase 1 — Before landing from California
 ### Goal
-- have Canadian banking rails ready before arrival
 - avoid first-week cash-flow friction for rent, deposits, utilities, and payroll setup
+- do not rely on the full RBC pair being available before arrival if the phone line says in-Canada identity verification comes first
 
 ### RBC cross-border setup
-- Call RBC and ask specifically for the cross-border / newcomer path for a U.S. resident moving to Canada
-- confirm the rep understands this is a relocation setup for a U.S. resident moving to Canada, not some other cross-border use case
+- Call RBC and ask specifically what the current path is for a U.S. resident moving to Canada
+- if the phone line tells you the cross-border team mainly serves Canadians opening U.S. accounts, do not fight that; use the call to confirm the in-Canada branch requirements instead
 - Remember that RBC Bank (U.S.) and RBC Royal Bank (Canada) are separate entities; confirm which product is being opened on each side
-- If you use the RBC pair, keep the U.S. side under your current U.S. information before the move and open the Canadian side under the newcomer setup
-- If the setup works as expected, you should have Canadian transit / account details before landing
-- Confirm exactly how linked transfers work, what the per-transfer limits are, and whether any fees or holds apply in your case
+- treat in-Canada branch identity verification as the default gating step unless RBC gives you a different written path
+- use the call to confirm what branch appointment you need, which two IDs are acceptable, and what can only be done after you are physically in Canada
+- once the Canadian side is open, confirm whether and how the RBC Bank U.S. side can be opened or linked, plus any transfer limits, fees, or holds that would apply
 
 ### Pre-landing documents folder
 - passport
@@ -85,6 +89,7 @@ Use this as the short personal runbook if you just want the order of operations.
 - confirm which U.S. card you will use as the first-week bridge card
 - decide whether RBC will be the primary daily bank; if yes, treat Scotiabank mainly as the secondary Canadian credit relationship
 - pre-fund only the initial settlement float you actually need before departure; do not assume the very first large transfer is the one to stress-test the system with
+- keep one non-RBC funding path available for arrival week in case the RBC U.S. side is not available until after the Canadian branch visit
 
 ## Phase 2 — Landing week: RBC branch visit
 ### Goal
@@ -97,8 +102,10 @@ Use this as the short personal runbook if you just want the order of operations.
 - obtain your SIN first; do not treat the credit-card application as the first stop before Service Canada
 
 ### Suggested branch ask
-- I am an ICT / work permit holder relocating from the U.S., I already set up the cross-border side, and I want to finalize the Canadian newcomer setup
+- I am an ICT / work permit holder relocating from the U.S., and I was told I need to complete identity verification in Canada first
+- I want to open or finalize the Canadian newcomer setup today
 - For the credit card, I would like to apply using RBC Global Credit Connect, if available for my profile; I understand this may use Nova Credit to translate my U.S. credit history
+- After the Canadian side is verified, please tell me whether and how I can open or link the RBC Bank U.S. side
 - Based on my translated U.S. credit and employment income, please tell me which card tier and limit I qualify for, and whether a higher-tier review is available
 
 ### Practical expectations
@@ -113,12 +120,15 @@ Use this as the short personal runbook if you just want the order of operations.
 - Canadian SIN
 - U.S. SSN for any cross-border linkage questions
 - Canadian phone number if already active
+- second piece of ID if the branch requested one
 
 ### What to finish in branch
 - confirm the monthly-fee waiver period, if any
 - confirm debit card access and online banking setup
 - confirm direct deposit details for payroll
-- confirm how to move money from the U.S. side to the Canadian side
+- confirm what is already available today on the Canadian side and what still requires a follow-up step for the U.S. side
+- confirm how money can move between your existing U.S. accounts and the new Canadian side until the RBC Bank U.S. side exists, if it does not open the same day
+- confirm how to move money between the U.S. and Canadian RBC sides if the U.S. side is later opened
 - ask exactly when the Canadian credit card decision and physical card should arrive
 - ask whether rush or courier delivery is available for the physical card if your U.S. bridge card may not remain usable for long after the move
 
@@ -142,7 +152,7 @@ Use this as the short personal runbook if you just want the order of operations.
 - if Scotiabank requires a daily account for the card, set a reminder before the newcomer fee waiver ends to close, downgrade, or justify keeping it
 
 ## Payroll routing default
-- default to routing payroll into the primary daily bank, usually RBC if you are using the cross-border pair as the main operating setup
+- default to routing payroll into the primary daily bank, usually RBC if the newcomer account becomes your main operating setup
 - keep the secondary bank active by using its credit card periodically and paying that bill from the primary bank
 - do not split payroll just to make a second bank relationship look active unless a specific product requirement or fee waiver makes it worthwhile
 
@@ -205,10 +215,11 @@ Use this as the short personal runbook if you just want the order of operations.
 ## Short decision rule
 If you want the cleanest first-week setup:
 
-1. pre-wire the RBC cross-border pair before landing
+1. do not assume the RBC cross-border pair can be fully opened before landing
 2. land and activate a Canadian phone number
 3. obtain your SIN
-4. do the RBC branch visit first
-5. do the Scotiabank follow-up second
-6. route payroll to the primary bank and pay the secondary card from there
-7. use the U.S. no-FX card only as a bridge, not as the long-term Canada plan
+4. do the RBC branch visit first to complete Canadian-side verification and newcomer setup
+5. ask whether and how the RBC Bank U.S. side can be added afterward
+6. do the Scotiabank follow-up second
+7. route payroll to the primary bank and pay the secondary card from there
+8. use the U.S. no-FX card only as a bridge, not as the long-term Canada plan
