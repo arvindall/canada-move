@@ -45,12 +45,13 @@
 ## PHASE 2 — Pre-Departure California (Weeks 3–4)
 
 ### Customs Documents
-- [ ] 🔴 Build BSF186A inventory list → use `templates/bsf186a_inventory.csv`
-  - Include: every item, description, estimated CAD value, serial numbers for electronics
-  - Group small items by box (e.g., "Box 3: Toddler Books and Toys")
-  - Everything NOT on this list when you cross may be taxed on arrival
+- [ ] 🔴 Start BSF186 / BSF186A inventory now → use `templates/bsf186a_inventory.csv`
+  - Include: item descriptions, approximate used CAD value, and serial numbers for major electronics
+  - Separate goods accompanying you from goods to follow; group smaller items by box/category (e.g., "Box 3: Toddler Books and Toys")
+  - Refine the list as packing progresses and align it later with the mover's inventory
 - [ ] Print Form BSF186 (Personal Effects Accounting Document) from cbsa-asfc.gc.ca
-- [ ] Print completed BSF186A — bring physical copies to border crossing
+- [ ] Print completed BSF186A or equivalent goods-to-follow list — bring physical copies to first arrival
+- [ ] Keep employer-owned work equipment off your settler's-effects list; carry it separately if possible and keep an employment letter available
 
 ### Insurance
 - [ ] 🔴 Purchase interim private health insurance — see `documents/health_insurance_comparison.md`
@@ -66,18 +67,41 @@
   - [ ] Employment offer letter
   - [ ] 3 months of bank statements
   - [ ] Passport copy
-- [ ] Research 2–3 backup private/LNR daycares near shortlisted neighborhoods (for childcare waitlist gap)
+- [ ] Research 2–3 backup licensed family / in-home multi-age providers near shortlisted neighborhoods (for childcare waitlist gap)
 
-### Driver's Abstract
-- [ ] 🔴 Order CA DMV Driver's Abstract / Letter of Driving Experience
-  - Order at dmv.ca.gov — allow 2–3 weeks for mail delivery
-  - Do NOT skip: your renewed CA license may not show original issue date; ICBC needs this
+### Childcare: Pre-Arrival Search
+- [ ] Build shortlist around licensed `30 months to school age`, `3–5`, and `Early Years 0–5` programs; do not treat `under 36 months` care as the primary search for a child turning 3 in July
+- [ ] Submit Burnaby CCRR referral request now
+  - YMCA BC Child Care Resource and Referral
+  - Web: https://www.ymcabc.ca/child-care-resource-referral
+  - Phone: 604-294-1109
+  - Email: ygv.ccrr@bc.ymca.ca
+  - Address: 4460 Beresford St, 3rd Floor, Burnaby, BC V5H 0B8
+  - Ask for: full-day care, June/July start, Metrotown/Burnaby commute, and licensed family / multi-age bridge options
+- [ ] Use the B.C. Child Care Map to search Burnaby `30 months to school age` first, then `multi-age`, `in-home multi-age`, and `family child care`
+  - Official map: https://maps.gov.bc.ca/ess/hm/ccf/
+- [ ] Start direct applications / waitlist inquiries with shortlisted operators that fit the 3+ age band
+  - Bee House Montessori waitlist: https://www.beehousedaycare.com/contact-waitlist
+  - Burnaby Family Life childcare: https://www.burnabyfamilylife.org/childcare | bfl_info@burnabyfamilylife.org | 604-659-2200
+  - Burnaby Neighbourhood House childcare: https://burnabynh.ca/programs-and-services/child-care-programs/ | 604-431-0400
+  - Kids & Company Brightstart Burnaby: https://kidsandcompany.com/location/brightstart-burnaby/ | brightstartburnaby@kidsandcompany.com | 604-563-2855
+  - CEFA Burnaby locations: https://cefa.ca/north-fraser/
+- [ ] Check whether each shortlisted provider participates in CCFRI or `$10 a Day`, and record the expected monthly fee after reductions
+- [ ] Set September 1 reminder for Burnaby Children's Centres Society waitlist window
+  - Waitlist page: https://www.bccschildren.com/waiting-list
+
+### Driver's Record / Experience Proof
+- [ ] 🔴 Request California DMV proof of your original licensing date
+  - See `documents/drivers_license_swap_checklist.md`
+  - Start early; request a driver record and, if needed, a First Issue Date Letter / letter of experience
+  - Keep any old expired California licenses that show earlier issue dates
+  - Do NOT skip: current CA records may not show the original issue date ICBC wants
 
 ### Gate Check — DO NOT proceed to Phase 3 until:
-- [ ] 🔴 BSF186 + BSF186A printed and ready
+- [ ] 🔴 BSF186 + goods-to-follow list printed and ready
 - [ ] 🔴 Interim health insurance purchased; policy saved
 - [ ] 🔴 Apartment shortlist finalized; virtual tours complete
-- [ ] 🔴 CA Driver's Abstract ordered (confirm mailing address is correct)
+- [ ] 🔴 California DMV proof of original issue date requested
 
 ---
 
@@ -87,9 +111,9 @@
 
 ### At the Border (YVR or Land Crossing)
 - [ ] 🔴 Present Form BSF186 to CBSA officer
-- [ ] 🔴 Declare all accompanying goods; reference BSF186A for goods-to-follow
-- [ ] 🔴 Get BSF186A STAMPED by CBSA — this is what allows your shipment to clear duty-free
-- [ ] Declare full FMV of goods you're hand-carrying
+- [ ] 🔴 Declare accompanying goods and attach/reference your detailed goods-to-follow list or BSF186A
+- [ ] 🔴 Keep the finalized stamped/numbered CBSA personal-effects copy for release of goods to follow
+- [ ] Declare the goods you're hand-carrying using reasonable used-value estimates
 
 ### Day 1–2
 - [ ] 🔴 Visit a Service Canada office in-person
@@ -115,7 +139,7 @@
   - Pay $200–$500 refundable moving deposit
 
 ### Gate Check — DO NOT proceed to Phase 4 until:
-- [ ] 🔴 BSF186A stamped at border
+- [ ] 🔴 CBSA personal-effects paperwork finalized and copy retained for goods to follow
 - [ ] 🔴 SIN obtained
 - [ ] 🔴 Bank account active with direct deposit configured
 - [ ] 🔴 Lease signed
@@ -131,10 +155,18 @@
 - [ ] Note exact MSP activation date in `logs/asset_fmv_log.md`
 
 ### Childcare — Highest Priority Family Action
-- [ ] 🔴 Register on YMCA BC Child Care Registry: ymcabc.ca/childcare
-  - Do this the day you have a BC address — wait is 3–6 months from registration date
-- [ ] Register directly with shortlisted licensed childcare providers
-- [ ] Identify and contact 2–3 home-based/LNR daycare providers near your building
+- [ ] 🔴 Reconfirm childcare search using your actual BC address and commute
+- [ ] 🔴 Submit or update direct childcare applications with providers that fit `30 months to school age`, `3–5`, or `Early Years 0–5`
+  - Bee House Montessori: info@beehousedaycare.com | 604-789-2029
+  - Burnaby Family Life: bfl_info@burnabyfamilylife.org | 604-659-2200
+  - Burnaby Neighbourhood House: 604-431-0400
+  - Kids & Company Brightstart Burnaby: brightstartburnaby@kidsandcompany.com | 604-563-2855
+  - CEFA Burnaby sites: use the Burnaby location pages on https://cefa.ca/north-fraser/
+- [ ] Submit Burnaby CCRR follow-up using your confirmed building address if your pre-arrival request used only a target neighborhood
+  - YMCA BC CCRR: ygv.ccrr@bc.ymca.ca | 604-294-1109
+- [ ] Identify and contact 2–3 licensed `multi-age`, `in-home multi-age`, or `family child care` providers near your building as bridge options
+- [ ] Record for each provider: exact program, earliest full-day start date, waitlist status, monthly fee after CCFRI / `$10 a Day`, and whether the child can stay through kindergarten
+- [ ] Check Infosys benefits / relocation portal for any Kids & Company corporate-partner status before assuming any priority access
 
 ### StrongStart BC (Toddler Bridge Program)
 - [ ] Register at nearest StrongStart center — see `documents/childcare_action_sheet.md`
@@ -144,15 +176,16 @@
 - [ ] Attend first session within the first week
 
 ### Driver's License & Vehicle
-- [ ] Visit ICBC with: CA license, CA Driver's Abstract, passport, proof of BC address
-  - 90-day deadline from arrival
-  - 2+ years non-learner experience = Class 5 license immediately, no tests
-- [ ] Request CA DMV send driving record directly to ICBC (locks in up to 15-year premium discount)
+- [ ] Visit ICBC with: CA license, California DMV proof of original issue date / driving experience, passport, proof of BC address
+  - Apply within 90 days of arrival
+  - If you cannot prove 2+ years of non-learner experience, ICBC can place you into the GLP
+- [ ] Submit any additional California driving-experience proof ICBC requests so you can claim up to 15 years of insurance experience credit
 - [ ] Register vehicle within 30 days of arrival
 
 ### Gate Check — DO NOT proceed to Phase 5 until:
 - [ ] 🔴 MSP application submitted
-- [ ] 🔴 YMCA Child Care Registry registration confirmed (screenshot confirmation)
+- [ ] 🔴 Burnaby CCRR referral submitted / updated with BC address
+- [ ] 🔴 Direct childcare applications / waitlists submitted to shortlisted providers
 - [ ] 🔴 StrongStart BC registration complete; PEN number recorded
 - [ ] 🔴 ICBC license exchanged; vehicle registered
 
@@ -190,6 +223,7 @@
 | `documents/w8ben_checklist.md` | Steps to handle post-move foreign-status paperwork with US institutions |
 | `documents/health_insurance_comparison.md` | Cigna vs DCIS interim coverage comparison |
 | `documents/childcare_action_sheet.md` | Childcare registration contacts and what to bring |
+| `documents/drivers_license_swap_checklist.md` | California DMV → ICBC license-swap proof checklist |
 | `templates/bsf186a_inventory.csv` | CBSA customs goods list (fill in before crossing) |
 | `logs/asset_fmv_log.md` | FMV documentation for all assets on landing date |
 | `templates/budget_tracker.md` | Monthly 50/30/20 budget with actuals column |

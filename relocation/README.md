@@ -104,6 +104,9 @@ Use a short species-specific question that asks for:
 ## Related files
 
 - `checklist.md` — phase-by-phase relocation task list
+- `documents/childcare_action_sheet.md` — Burnaby childcare search order, contacts, and StrongStart notes
+- `documents/drivers_license_swap_checklist.md` — California DMV / ICBC proof checklist and pitfalls
+- `templates/bsf186a_inventory.csv` — living goods-to-follow inventory template for BSF186 / BSF186A prep
 - `../canada-asset-agent/README.md` — brokerage snapshot workflow and output files
 
 ## Practical note
