@@ -20,6 +20,32 @@ This is the conservative, checklist-ready version:
 - Keep old expired California licences if they show an earlier issue date than the current card
 - Save copies of everything you receive from the DMV
 
+## California DMV: exact request to make
+- Use California DMV form `INF 1125` for a mail-in request for your own record
+- In Section 3, check `Current Record`
+- In Section 3, also check `First Issue Date Letter` — the form lists this at no additional fee
+- On the form, also check the certification option so DMV mails a certified true copy of the record
+- Sign Section 7, complete Section 8, and keep a copy of the completed form
+- Include the `$5` driver-record fee
+- Mail it to:
+  - Department of Motor Vehicles
+  - Public Operations – MS G199
+  - P.O. Box 944247
+  - Sacramento, CA 94244-2470
+
+## Practical ordering sequence
+- First choice: mail `INF 1125` and ask for both `Current Record` and `First Issue Date Letter`
+- Fast backup: order the California online driver record too, save it immediately, and treat it as supporting evidence rather than your only ICBC proof
+- If still in California, you can also ask a DMV office for a current record in person, but do not assume that alone will replace the first-issue-date proof ICBC may want
+- Bring the original mailed DMV response to ICBC together with your current California licence
+
+## How to read the California online printout
+- If the online California PDF shows `LIC/ISS`, treat that as the issue date shown on that record, not automatically as proof of your original first non-learner issue date
+- If the PDF is labeled `CUSTOMER RECEIPT COPY`, treat it as useful supporting evidence, not the safest stand-alone ICBC document
+- If the `LIC/ISS` date is already more than 2 years old, it may still help with the basic GLP-exemption question
+- If your true first full-licence date is earlier than the `LIC/ISS` date shown on the online printout, the online printout may understate your experience
+- That is why the safer request is still: mailed `INF 1125` + `First Issue Date Letter` + any old expired licences showing earlier dates
+
 ## What to bring to ICBC
 - Current California driver's licence
 - California DMV proof of original issue date / driving experience
@@ -42,6 +68,7 @@ This is the conservative, checklist-ready version:
 - Do not assume the current California record automatically shows the original issue date ICBC wants
 - Do not assume ICBC only needs the current licence card
 - Do not assume a same-day in-person certified DMV result is always available
+- Do not assume an online California driver record by itself will always satisfy the original-issue-date requirement
 - Do not assume sealed-envelope or special certification handling is required unless the DMV or ICBC specifically says so
 
 ## Practical rule

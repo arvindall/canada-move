@@ -30,9 +30,21 @@
 - [ ] Open Canadian newcomer bank account online (RBC or TD) using the immigration/status documents required by the bank
 
 ### Logistics: Moving Company
-- [ ] Get quotes from at least 3 movers: XS Baggage, Miracle Movers, International Van Lines
-- [ ] Confirm chosen mover handles CBSA customs clearance coordination
-- [ ] 🔴 Book mover with confirmed pick-up date
+- [ ] Define the shipment honestly before requesting quotes: mostly boxes, a few small pieces, and maybe one bed; do not price it as a full furniture-heavy 2-bedroom move if that is no longer true
+- [ ] Use `documents/mover_quote_checklist.md` and `templates/mover_quote_request_template.md` for the first quote round
+- [ ] Get quotes from at least 3 movers that fit a downsized cross-border move with full-service packing/loading and inside delivery in Burnaby
+  - Start with: MiniMoves, Ship Smart, and Trans Canada Movers
+  - If you compare large-network backups, confirm whether they will directly handle the move or broker/subcontract it
+  - If you compare boxes-only freight options, treat them as a separate self-pack path rather than as your main full-service quote set
+- [ ] Ask each mover to confirm in writing:
+  - binding or not-to-exceed pricing, or exactly how change orders are triggered
+  - minimum weight / volume assumptions for a small shipment
+  - who performs pickup and delivery
+  - CBSA customs coordination for settler's effects / goods to follow
+  - inside delivery / unpacking scope and bed setup if needed
+  - building COI / elevator paperwork support
+  - excluded items such as plants, employer-owned equipment, and prohibited goods
+- [ ] 🔴 Book mover with confirmed pick-up date and written scope that matches your downsized inventory
 
 ### Gate Check — DO NOT proceed to Phase 2 until:
 - [ ] 🔴 Lease notice served and acknowledged in writing by landlord
@@ -46,9 +58,11 @@
 
 ### Customs Documents
 - [ ] 🔴 Start BSF186 / BSF186A inventory now → use `templates/bsf186a_inventory.csv`
+  - Build it as a living spreadsheet now, before final mover booking; it helps both quote accuracy and customs prep
   - Include: item descriptions, approximate used CAD value, and serial numbers for major electronics
-  - Separate goods accompanying you from goods to follow; group smaller items by box/category (e.g., "Box 3: Toddler Books and Toys")
-  - Refine the list as packing progresses and align it later with the mover's inventory
+  - List larger items individually; group smaller items by box/category (e.g., "Box 3: Toddler Books and Toys")
+  - Separate goods accompanying you from goods to follow
+  - Refine the list as packing progresses and reconcile it with the mover's inventory before pickup
 - [ ] Print Form BSF186 (Personal Effects Accounting Document) from cbsa-asfc.gc.ca
 - [ ] Print completed BSF186A or equivalent goods-to-follow list — bring physical copies to first arrival
 - [ ] Keep employer-owned work equipment off your settler's-effects list; carry it separately if possible and keep an employment letter available
@@ -93,6 +107,8 @@
 ### Driver's Record / Experience Proof
 - [ ] 🔴 Order California DMV proof of your original licensing date as early as possible
   - See `documents/drivers_license_swap_checklist.md`
+  - Use California DMV form `INF 1125`; request `Current Record` plus `First Issue Date Letter`
+  - Ask DMV to certify the mailed record copy; include the `$5` record fee
   - Request a driver record and, if needed, a First Issue Date Letter / letter of experience
   - Keep any old expired California licenses that show earlier issue dates
   - Do NOT assume the current California record automatically shows the original issue date ICBC wants
@@ -229,6 +245,8 @@
 | `documents/health_insurance_comparison.md` | Cigna vs DCIS interim coverage comparison |
 | `documents/childcare_action_sheet.md` | Childcare registration contacts and what to bring |
 | `documents/drivers_license_swap_checklist.md` | California DMV → ICBC license-swap proof checklist |
+| `documents/mover_quote_checklist.md` | What to confirm before choosing a cross-border mover |
 | `templates/bsf186a_inventory.csv` | CBSA customs goods list (fill in before crossing) |
+| `templates/mover_quote_request_template.md` | Reusable quote request message for downsized cross-border movers |
 | `logs/asset_fmv_log.md` | FMV documentation for all assets on landing date |
 | `templates/budget_tracker.md` | Monthly 50/30/20 budget with actuals column |
