@@ -21,7 +21,7 @@ Use this as the short personal runbook if you just want the order of operations.
 ### Before May 21
 - confirm what the RBC branch wants for identity verification, including whether they require two pieces of ID
 - if possible, book or plan the landing-week RBC branch visit now
-- assemble the working document folder: passport, work permit approval or final status document, current employment letter, U.S. SSN, and Canadian address once known
+- assemble the working document folder: passport, work permit approval or final status document, current employment letter, U.S. SSN, Canadian address once known, and any secondary government ID you can carry for branch verification
 - keep the current U.S. address on U.S. issuers only until you have actually moved; once the move is real, update institutions truthfully and assume at least one U.S. bridge card could become less useful
 
 ### Before you leave
@@ -34,6 +34,7 @@ Use this as the short personal runbook if you just want the order of operations.
 
 ### Day 1–2 in Burnaby
 - obtain your SIN first
+- if spouse has the actual SOWP / work permit in hand, do the spouse SIN application on the same Service Canada trip even if there is no job yet
 - do the RBC branch visit to complete the newcomer setup, satisfy identity verification, and make the U.S.-credit-review ask
 - bring passport, work permit, Infosys employment letter, SIN, U.S. SSN, Canadian phone number if already active, and any second piece of ID the branch requested
 
@@ -82,6 +83,7 @@ Use this as the short personal runbook if you just want the order of operations.
 - Infosys employment letter, current and signed
 - U.S. SSN for cross-border identity verification
 - Canadian address once known
+- secondary government ID if available for first-week bank verification
 
 ### Pre-landing actions
 - check your current U.S. credit score and save a screenshot for your own records

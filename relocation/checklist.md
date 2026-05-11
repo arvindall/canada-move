@@ -84,6 +84,10 @@
   - [ ] Passport copy
 - [ ] Research 2–3 backup licensed family / in-home multi-age providers near shortlisted neighborhoods (for childcare waitlist gap)
 
+### Landing / Identity Folder
+- [ ] Keep the first-week identity folder in carry-on, not checked bags
+  - Include: passports, work permit approval letters / status documents, employment letters, and any secondary government ID that may help with first-week bank verification
+
 ### Childcare: Pre-Arrival Search
 - [ ] Build shortlist around licensed `30 months to school age`, `3–5`, and `Early Years 0–5` programs; do not treat `under 36 months` care as the primary search for a child turning 3 in July
 - [ ] Submit Burnaby CCRR referral request now
@@ -143,6 +147,7 @@
   - Bring: immigration status document, passport, proof of address
   - Processing: same day
   - Output: Social Insurance Number (SIN) — give to employer immediately for payroll
+  - If spouse has the actual spousal open work permit in hand, do both SIN applications on the same Service Canada trip; a current job is not required for the spouse's SIN
 - [ ] Visit RBC or TD branch to open or activate the newcomer account based on what was actually pre-arranged
   - Bring: immigration status document, SIN, passport, Canadian phone number if active, and any second piece of ID the branch said it requires
   - Set up direct deposit; activate credit card
