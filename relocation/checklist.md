@@ -255,6 +255,7 @@
 | `documents/childcare_action_sheet.md` | Childcare registration contacts and what to bring |
 | `documents/cross_border_banking_checklist.md` | RBC / Scotiabank newcomer banking and credit-import path |
 | `documents/drivers_license_swap_checklist.md` | California DMV → ICBC license-swap proof checklist |
+| `documents/later_arriving_family_checklist.md` | Spouse / child later-arrival checklist covering consent letter, IME, MSP, and BSF186 |
 | `documents/mover_quote_checklist.md` | What to confirm before choosing a cross-border mover |
 | `templates/bsf186a_inventory.csv` | CBSA customs goods list (fill in before crossing) |
 | `templates/mover_quote_request_template.md` | Reusable quote request message for downsized cross-border movers |
