@@ -39,6 +39,7 @@ SNAPSHOT_COLUMNS = [
 
 YAHOO_TICKER_MAP = {
     "BRK.B": "BRK-B",
+    "BRKB": "BRK-B",
     "BF.B": "BF-B",
 }
 
