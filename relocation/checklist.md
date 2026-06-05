@@ -6,7 +6,9 @@
 ## Operating Rule for Taxable Investments
 
 - [ ] Default rule confirmed: sell desired loss positions before departure, hold gain positions through the move, and treat early 2027 as the default gain-sale window
-- [ ] Do not keep a false US address on the primary US brokerage or any other financial institution after the move
+- [ ] For **IRS and tax authorities**: file IRS Form 8822 with your actual Burnaby address — this is legally required and separate from banking
+- [ ] For **US retail bank accounts** (Citi, Chase, Capital One, Discover): use a US mail-drop address (trusted US family/friend or forwarding service) — do NOT enter the Burnaby address directly into US bank portals; foreign addresses trigger automated checking/savings account closures
+- [ ] For **brokerages** (Fidelity etc.): do not misrepresent your address; file W-8BEN when the institution requests it; expect restrictions on purchasing new US mutual funds with a foreign address on file
 - [ ] Build a dated evidence folder for brokerage statements, lot-level basis, arrival-date FMV, CAD/USD rate support, and post-move tax records
 
 ---
@@ -26,7 +28,12 @@
 - [ ] If harvesting losses, check wash-sale timing before rebuying substantially identical exposure
 - [ ] Screenshot/export current taxable account holdings and save the latest statements
 - [ ] Save proof that US employment ends on departure timeline
-- [ ] Queue address changes for banks and brokerages to submit after the actual move
+- [ ] **Cross-border banking strategy** — do all three, in this order:
+  1. Set a rolling 90-day travel advisory on Citi (and any other US card) to prevent fraud blocks on Canadian transactions; renew every 80 days
+  2. Change US bank billing addresses to a trusted US mail drop (family/friend or mail-forwarding service) — NOT the Burnaby address — to prevent automated account closures
+  3. Switch all US bank and credit card accounts to paperless/electronic statements so physical mail delivery is irrelevant
+  - Open RBC or TD newcomer account on Day 1 in Canada; use exclusively for Canadian bills (BC Hydro, cell plan) and any online purchase requiring a Canadian postal code
+  - File IRS Form 8822 with actual Burnaby address for tax compliance (separate from banks; will not trigger closures)
 - [ ] If using the RBC / Scotiabank newcomer-credit path, follow `documents/cross_border_banking_checklist.md` now
 - [ ] Confirm what, if anything, RBC, TD, or another bank can pre-arrange for your status before landing; do not assume the full RBC cross-border setup can be completed from the U.S.
 
@@ -152,14 +159,14 @@
   - Bring: immigration status document, SIN, passport, Canadian phone number if active, and any second piece of ID the branch said it requires
   - Set up direct deposit; activate credit card
 - [ ] If using the U.S.-credit-import path, complete the landing-week branch sequence in `documents/cross_border_banking_checklist.md`
-- [ ] Be ready to run first-week essentials on Canadian debit / pre-funded chequing if a U.S. bridge card becomes unusable after truthful address updates
+- [ ] Run all Canadian bills and local online payments through the Canadian debit/credit card; keep US cards for physical in-person spending where the travel advisory prevents fraud blocks
 
 ### Tax / Brokerage Arrival Evidence
 - [ ] 🔴 Record the exact Canadian tax residency start date used for the move-year file
 - [ ] Save a fresh same-day taxable brokerage positions export plus screenshot/PDF backup
 - [ ] Run the arrival-date evidence pack workflow in `../canada-asset-agent/README.md`
 - [ ] Record arrival-date FMV for each holding and the CAD/USD rate support used
-- [ ] Update brokerages, banks, and other financial institutions truthfully after the move
+- [ ] Apply the banking split strategy: US mail-drop on US retail bank accounts; IRS Form 8822 with actual Burnaby address; W-8BEN to brokerages when requested — see Operating Rules at top of this file for details
 - [ ] Submit W-8BEN or equivalent foreign-status paperwork after the move when the institution requests it
 
 ### Day 2–3
