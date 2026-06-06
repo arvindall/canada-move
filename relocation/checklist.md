@@ -155,7 +155,7 @@
   - Processing: same day
   - Output: Social Insurance Number (SIN) — give to employer immediately for payroll
   - If spouse has the actual spousal open work permit in hand, do both SIN applications on the same Service Canada trip; a current job is not required for the spouse's SIN
-  - Apply for child's SIN on the same trip — required to open an RESP and claim the CESG grant; bring child's passport and birth certificate
+  - Child's SIN: only possible if the child holds a work permit, study permit, or PR — a US-citizen child entering as a visitor is NOT eligible; do not attempt at Service Canada on Day 1
 - [ ] Visit RBC or TD branch to open or activate the newcomer account based on what was actually pre-arranged
   - Bring: immigration status document, SIN, passport, Canadian phone number if active, and any second piece of ID the branch said it requires
   - Set up direct deposit; activate credit card
@@ -233,7 +233,7 @@
 
 ### Canadian Financial Accounts
 - [ ] Open TFSA at RBC/TD (requires SIN) — contribution room starts from year of residency
-- [ ] Open RESP for child — CESG grant adds 20% on first $2,500/year contributed
+- [ ] Open RESP for child once child has a SIN (requires PR, work permit, or study permit — not available on visitor status); CESG is retroactively claimable for prior years once a SIN is obtained
 - [ ] US IRA/401(k): no action needed — actively tradeable under provincial exemptions
 - [ ] Primary taxable brokerage: do not force a sale just because you moved; use closing-only mode or an in-kind transfer to a Canadian USD brokerage if needed
 - [ ] Treat 2026 as a transition year and early 2027 as the default gain-sale window
